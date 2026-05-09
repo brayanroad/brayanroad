@@ -5,9 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/16_anos-Goiás,_Brasil-1a1a1a?style=flat-square&labelColor=000" />
-  <img src="https://img.shields.io/badge/Stack-Full_Stack_em_formação-1a1a1a?style=flat-square&labelColor=000" />
-  <img src="https://img.shields.io/badge/Focus-React_•_Python_-1a1a1a?style=flat-square&labelColor=000" />
+ <div align="center">
+  <img src="https://img.shields.io/badge/Age-16_Years_Old-1a1a1a?style=flat-square&labelColor=000" />
+  <img src="https://img.shields.io/badge/Stack-Full_Stack_Developer-1a1a1a?style=flat-square&labelColor=000" />
+  <img src="https://img.shields.io/badge/Focus-React_•_Python-1a1a1a?style=flat-square&labelColor=000" />
+</div>
 </p>
 
 ---
@@ -29,7 +31,7 @@ Currently, my focus is on becoming a **Full Stack Developer** capable of creatin
 </p>
 
 <p align="center">
-  <sub>Estudando: FastAPI • Python • React</sub>
+  <sub>Studying: CSS • Python • HTML</sub>
 
 ---
 
