@@ -27,7 +27,7 @@ Currently, my focus is on becoming a **Full Stack Developer** capable of creatin
 ## ⚙️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,,git,github,vscode" />
 </p>
 
 <p align="center">
